@@ -26,3 +26,12 @@ header{
 .giallo {
     background-color: yellow;
 }
+
+.colore-intestazione{
+    color : white;
+    background-color:aqua;
+}
+
+.azzurro {
+    background-color: lightblue;
+}
