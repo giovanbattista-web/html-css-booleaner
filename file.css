@@ -3,9 +3,9 @@
     margin:0;
     box-sizing:border-box;
 }
-
-header {
-    background-image: url("../img/pattern.png");
+ 
+div{
+    background-image: url("/img/pattern.png");
     background-color: lightskyblue;
     background-size: cover;
     background-repeat: no repeat;
