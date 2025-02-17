@@ -4,11 +4,10 @@
     box-sizing:border-box;
 }
  
-div{
+header{
     background-image: url("/img/pattern.png");
     background-color: lightskyblue;
     background-size: cover;
-    background-repeat: no repeat;
     background-position: bottom;
     }
 
@@ -24,3 +23,6 @@ div{
     color :lightskyblue;
 }
 
+.giallo {
+    background-color: yellow;
+}
