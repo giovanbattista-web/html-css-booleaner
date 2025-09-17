@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* header */
+header {
+  height: 100px;
+  background-image: url("./img/pattern.png");
+  background-color: lightskyblue;
+  background-size: 30%;
+}
+
+.logo {
+  height: 50px;
+  margin-top: 40px;
+}
+
+/* main */
+h1 {
+  font-size: 38px;
+  line-height: 40px;
+}
+
+.grigio {
+  color: grey;
+}
+
+.foto {
+  margin: 20px 0;
+}
+
+.didascalia {
+  font-size: 12px;
+}
+
+.giallo {
+  background-color: yellow;
+}
+
+ul {
+  margin: 20px;
+}
+
+/* table */
+table {
+  text-align: left;
+  border-collapse: collapse;
+  margin: 20px 0px;
+}
+
+thead {
+  background-color: lightskyblue;
+  color: white;
+}
+
+.dispari {
+  background-color: lightskyblue;
+}
+
+/* footer */
+
+footer {
+  margin: 40px 0px;
+}
+
+.immagine {
+  width: 200px;
+  height: 160px;
+  background-size: cover;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+#monitor {
+  background-image: url("./img/monitor.jpg");
+}
+
+#grafico {
+  background-image: url("./img/graph.jpg");
+}
+
+/* bonus */
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
